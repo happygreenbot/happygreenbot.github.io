@@ -1,10 +1,8 @@
 # hello there!
 This is my internet persona.
 
-# stuff I write
-
+## stuff I write
 [under development]
 
-# stuff I make
-
+## stuff I make
 [under development]
