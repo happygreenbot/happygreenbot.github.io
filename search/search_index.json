@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"hello there!","text":"<p>This is my internet persona.</p>"},{"location":"#stuff-i-write","title":"stuff I write","text":"<p>[under development]</p>"},{"location":"#stuff-i-make","title":"stuff I make","text":"<p>[under development]</p>"}]}
