@@ -1,18 +1,10 @@
-# Let's try to make a changes
+# hello there!
+This is my internet persona.
 
-# Using Deploy MkDocs action
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# stuff I write
 
-## Commands
+[under development]
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+# stuff I make
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[under development]
