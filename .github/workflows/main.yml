@@ -4,6 +4,6 @@ name: GitHub Pages Overwriter
   uses: rayluo/github-pages-overwriter@v1.3
   with:
     # The name of the source directory that you wish it to become the wwwroot of your website
-    source-directory: site # optional, default is .
+    source-directory: site/ # optional, default is .
     # The name of the branch that would be OVERWRITTEN by current workdir, you will then configure your Github Pages to serve this branch.
     target-branch: # optional, default is gh-pages
