@@ -1,1 +1,3 @@
 site_name: It's a blog.
+theme:
+  name: material
